@@ -1,9 +1,9 @@
 /* Service worker de Ecualand.
    Guarda la app entera en el teléfono: después del primer ingreso funciona sin señal.
    Al publicar una versión nueva hay que subir VERSION: eso borra la caché vieja. */
-const VERSION = 'ecualand-v9';
+const VERSION = 'ecualand-v10';
 const ARCHIVOS = [
-  './', './index.html', './ruta.html', './manifest.webmanifest',
+  './', './index.html', './ruta.html', './cargueras.html', './manifest.webmanifest',
   './iconos/icon-192.png', './iconos/icon-512.png',
   './iconos/maskable-192.png', './iconos/maskable-512.png', './iconos/apple-touch-icon.png'
 ];
