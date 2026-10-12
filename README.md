@@ -1,3 +1,3 @@
-# Ecualand · Compras por finca
+# Ecualand
 
-App interna. Los datos están cifrados; se necesita el código de acceso.
+Esta app fue retirada.
